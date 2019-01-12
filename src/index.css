@@ -1,0 +1,16 @@
+.masthead {
+	text-align: center;
+	color: white;
+	/*background-image: url('../img/Bunny.jpg') white;*/
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+	background-size: cover;
+	width: 100vw;
+	height: 100vh;
+}
+
+.fullViewPort {
+	width: 100vw;
+	height: 100vh;
+}
