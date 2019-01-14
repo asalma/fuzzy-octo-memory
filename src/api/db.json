@@ -1,16 +1,1 @@
-{
-  "users": [
-    {
-      "id": 25419994,
-      "firstName": "Amiya",
-      "lastName": "Macejkovic",
-      "email": "Jaylen.Shanahan23@gmail.com"
-    },
-    {
-      "id": 43478395,
-      "firstName": "Rahul",
-      "lastName": "Rohan",
-      "email": "Kianna.Walsh45@gmail.com"
-    }
-  ]
-}
+{"users":[{"id":21632075,"firstName":"Damaris","lastName":"Beahan","email":"Hank.Glover@gmail.com"},{"id":57406904,"firstName":"Aubrey","lastName":"West","email":"Cheyanne.Barton@gmail.com"},{"id":11612749,"firstName":"Jerod","lastName":"Aufderhar","email":"Elijah.Heller@hotmail.com"}]}
